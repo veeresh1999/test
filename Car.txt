@@ -4,3 +4,8 @@ Car parts
    
    doors
    windows
+   
+   color
+   type
+   
+   thank you

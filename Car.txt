@@ -5,7 +5,7 @@ Car parts
    doors
    windows
    
-   color
+   color[red or green]
    type
    
    thank you
